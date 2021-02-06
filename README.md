@@ -20,8 +20,8 @@
 * 学习下node~
 * 看懂English document
 * over (order by difficulty desc)
+![image](https://github-readme-stats.vercel.app/api?username=q378532364)
 
-[![my github start](https://github-readme-stats.vercel.app/api?username=q378532364)]
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
