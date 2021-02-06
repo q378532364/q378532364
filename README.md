@@ -18,10 +18,9 @@
 ###  📫 2021目标
 * leetcode 100 题
 * 学习下node~
-* 看懂English document
 * over (order by difficulty desc)
 
-![liuwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=q378532364&show_icons=true&theme=radical)
+![liuwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=q378532364)
 
 <!--
 Here are some ideas to get you started:
