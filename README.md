@@ -9,11 +9,11 @@
 * 人生格言：天赐食于鸟，但不投食于巢
 
 ### 😄 现阶段工作
-* **[wangEditor](https://github.com/wangeditor-team/wangEditor) &nbsp; 开源项目参与者欢迎大家使用和Star）** 现 `⭐️ Star: 11k`
+* **[wangEditor](https://github.com/wangeditor-team/wangEditor) &nbsp;（开源项目参与者欢迎大家使用和Star）** 现 `⭐️ Star: 11k`
 * 江苏某个小城市某个单位打工~
 
 ### ⚡ 技术栈
- * 💻 &nbsp;  Vue && JavaScript && webpack
+ * 💻 &nbsp;  **Vue** && **JavaScript** && **webpack**
  
 ###  📫 2021目标
 * leetcode 100 题
