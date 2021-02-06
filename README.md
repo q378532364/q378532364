@@ -19,7 +19,7 @@
 * leetcode 100 题
 * 学习下node~
 * 看懂English document
-* over (gruop by difficulty desc)
+* over (order by difficulty desc)
 [![my github start](https://github-readme-stats.vercel.app/api?username=q378532364)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 Here are some ideas to get you started:
