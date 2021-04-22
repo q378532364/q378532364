@@ -13,7 +13,7 @@
 * 江苏某个小城市某个单位打工~
 
 ### ⚡ 技术栈
- * 💻 &nbsp;  **Vue** &&React&& **JavaScript** && **Webpack**&&**Typescript**
+ * 💻 &nbsp;  **Vue** && **React* *&& **JavaScript** && **Webpack** && **Typescript**
  
 ###  📫 2021目标
 * leetcode 100 题
