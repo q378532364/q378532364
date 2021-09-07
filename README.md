@@ -13,15 +13,13 @@
 * 江苏某个小城市某个单位打工~
 
 ### ⚡ 技术栈
-![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=plastic&logo=JavaScript)
-![](https://img.shields.io/badge/-Vue.js-29beb0?style=plastic&logo=vue.js)
-![](https://img.shields.io/badge/-React-29beb0?style=plastice&logo=React)
-![](https://img.shields.io/badge/-Typescript-29beb0?style=plastice&logo=Typescript)
 
-作者：树酱
-链接：https://juejin.cn/post/7004639198061789191
-来源：掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=plasticee&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+![](https://img.shields.io/badge/-Vue.js-29beb0?style=plastice&logo=vue.js&labelColor=ffffff&color=4FC08D)
+![](https://img.shields.io/badge/-React-29beb0?style=plastice&logo=React&labelColor=ffffff&color=61DAFB)
+![](https://img.shields.io/badge/-Typescript-29beb0?style=plastice&logo=Typescript&labelColor=ffffff&color=294E80)
+
+
  
 ###  📫 2021目标
 * leetcode 100 题
