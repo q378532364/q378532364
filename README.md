@@ -14,9 +14,8 @@
 
 ### ⚡ 技术栈
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
-![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
-![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB)
-![](hhttps://img.shields.io/npm/types/typescript?style=plastic)
+![](https://img.shields.io/badge/-Vue.js-29beb0?style=plastic&logo=vue.js&labelColor=ffffff&color=4FC08D)
+![](https://img.shields.io/badge/-React-29beb0?style=plastice&logo=React&labelColor=ffffff&color=61DAFB)
 
 作者：树酱
 链接：https://juejin.cn/post/7004639198061789191
