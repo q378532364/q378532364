@@ -9,7 +9,7 @@
 * 人生格言：天赐食于鸟，但不投食于巢
 
 ### 😄 现阶段工作
-* **[wangEditor](https://github.com/wangeditor-team/wangEditor) &nbsp;（开源项目参与者欢迎大家使用和Star）** 现 `⭐️ Star: 12k`
+* **[wangEditor](https://github.com/wangeditor-team/wangEditor) &nbsp;（开源项目参与者欢迎大家使用和Star）** 现 `⭐️ Star: 15k`
 * 江苏某个小城市某个单位打工~
 
 ### ⚡ 技术栈
