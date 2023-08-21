@@ -4,9 +4,8 @@
 ### 💻  关于我
 * 2020毕业参加工作🌱
 * 前端切图仔
-* 性格外向，时而沙雕
 * 热爱生活，热爱code，我的代码没有bug~
-* 人生格言：天赐食于鸟，但不投食于巢
+* 天赐食于鸟，但不投食于巢
 
 ### 😄 现阶段工作
 * **[wangEditor](https://github.com/wangeditor-team/wangEditor) &nbsp;（开源项目参与者欢迎大家使用和Star）** 现 `⭐️ Star: 15k`
@@ -16,9 +15,6 @@
 ![](https://img.shields.io/badge/-Typescript-29beb0?style=plastice&logo=TypeScript&labelColor=ffffff&color=294E80)
 ![](https://img.shields.io/badge/-Vue.js-29beb0?style=plastice&logo=vue.js&labelColor=ffffff&color=4FC08D)
 ![](https://img.shields.io/badge/-React-29beb0?style=plastice&logo=React&labelColor=ffffff&color=61DAFB)
-
-
-###  📫 2021目标
 
 
 ![liuwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=q378532364)
