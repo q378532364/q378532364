@@ -10,8 +10,6 @@
 
 ### 😄 现阶段工作
 * **[wangEditor](https://github.com/wangeditor-team/wangEditor) &nbsp;（开源项目参与者欢迎大家使用和Star）** 现 `⭐️ Star: 15k`
-* 江苏某个小城市某个单位打工~
-
 ### ⚡ 技术栈
 
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=plasticee&logo=JavaScript&labelColor=f7df1e&logoColor=000)
@@ -21,9 +19,7 @@
 
 
 ###  📫 2021目标
-* leetcode 100 题
-* 学习下node~
-* over (order by difficulty desc)
+
 
 ![liuwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=q378532364)
 
