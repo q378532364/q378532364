@@ -8,7 +8,7 @@
 * 天赐食于鸟，但不投食于巢
 
 ### 😄 现阶段工作
-* **[wangEditor](https://github.com/wangeditor-team/wangEditor) &nbsp;（开源项目参与者欢迎大家使用和Star）** 现 `⭐️ Star: 15k`
+* **[wangEditor](https://github.com/wangeditor-team/wangEditor) &nbsp;（开源项目参与者欢迎大家使用和Star）** 现 `⭐️ Star: 17k`
 ### ⚡ 技术栈
 
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=plasticee&logo=JavaScript&labelColor=f7df1e&logoColor=000)
